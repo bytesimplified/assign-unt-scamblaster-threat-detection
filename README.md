@@ -1,10 +1,16 @@
 # assign-unt-scamblaster-threat-detection
 
-## Contact & Support
-For assistance, tutoring, or guided implementation: `connect@bytesimplified.com`. We provide assignment assistance, code review, and deployment support.
->
-> We **do not** provide completed coursework for submission and we will not assist with academic dishonesty. Contact: connect@bytesimplified.com.
+## Contact & Support  
 
+Need help, guidance, or tutoring?  
+Email us at **connect@bytesimplified.com** or message us on WhatsApp: [http://wa.me/919110520993](http://wa.me/919110520993).  
+
+We can support you with:  
+- Learning and understanding concepts  
+- Step-by-step guidance  
+- Code review and deployment support  
+
+⚠️ Note: We do **not** provide ready-made assignments or help with academic dishonesty.  
 ---
 
 ## Assignment Details 
