@@ -9,7 +9,8 @@ We can support you with:
 - Learning and understanding concepts  
 - Step-by-step guidance  
 - Code review and deployment support
-Note: We do **not** provide ready-made assignments or help with academic dishonesty.  
+
+> Note: We do **not** provide ready-made assignments or help with academic dishonesty.  
 ---
 
 ## Assignment Details 
