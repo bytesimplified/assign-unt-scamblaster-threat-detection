@@ -78,14 +78,14 @@ Please answer all questions in short answer format, IE no more than a few paragr
 
 ---
 
-## Files you uploaded
-- `solutions/Q1 to Q5.docx`  (uploaded)  
-- `solutions/Q6.ipynb`       (uploaded)  
+## Files to be submitted
+- `solutions/Q1 to Q5.docx`  (theory part)  
+- `solutions/Q6.ipynb`       (coding task)  
 
 ---
 
 ## Purpose & Responsible Use
-This repo is intended to be a research / demonstration artifact that **documents the assignment prompt and design considerations** for an email-scam detection prototype. It is **not** a place to host or distribute completed student coursework for submission. ByteSimplified enforces a strict policy against facilitating academic dishonesty. If you wish to obtain legitimate help, we offer consulting and tutoring services (contact above) which focus on teaching, code review, and guided implementation rather than doing work for someone to submit as their own.
+This repo is intended to be a research/demonstration artifact that **documents the assignment prompt and design considerations** for an email-scam detection prototype. It is **not** a place to host or distribute completed student coursework for submission. ByteSimplified enforces a strict policy against facilitating academic dishonesty. If you wish to obtain legitimate help, we offer consulting and tutoring services (contact above) which focus on teaching, code review, and guided implementation rather than doing work for someone to submit as their own.
 
 
 
